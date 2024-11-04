@@ -50,7 +50,9 @@ PVS-114514は3Dプリンタで作成するマニュアルゲイン機能を備�
 |M3タッピングビス|2| |
 
 ## 基板製作
-WIP(まともな回路図書いて無かった)  
+**作成中**  
+**WIP**  
+(まともな回路図書いて無かった)  
 <img alt="NOD" src="https://github.com/user-attachments/assets/a037b29c-3c35-4467-b964-27f54653f270" width="450px">
 <img alt="NOD" src="https://github.com/user-attachments/assets/faea16d6-fcc6-4d68-8e0b-a98d5c92c78e" width="450px">
 <img alt="NOD" src="https://github.com/user-attachments/assets/62b47465-7fbe-4c03-bde1-2b44d0ca7ccf" width="450px">
