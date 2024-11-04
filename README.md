@@ -2,7 +2,7 @@
 ## はじめに
 PVS-114514は3Dプリンタで作成するマニュアルゲイン機能を備えたDIY Night Vision Housingである。  
 今までも海外などで3Dプリンタ製のハウジングは存在したが、pigtailの付いていないMX-10160のものばかりであった。  
-そこで今回、手持ちのpigtailが付いたMX-11769/uvに対応したハウジングの試作を実施した。  
+そこで今回、手持ちのpigtailが付いたMX-11769/UVに対応したハウジングの試作を実施した。  
 また、このハウジングはPVS-14の対物レンズが装着可能となっている。
 
 <img alt="NOD" src="https://github.com/user-attachments/assets/c0770f83-344c-498c-9bcd-d7fe0fae0cc9" width="450px">
