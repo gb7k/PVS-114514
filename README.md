@@ -3,8 +3,7 @@
 PVS-114514は3Dプリンタで作成するマニュアルゲイン機能を備えたDIY Night Vision Housingである。  
 今までも海外などで3Dプリンタ製のハウジングは存在したが、pigtailの付いていないMX-10160のものばかりであった。  
 そこで今回、手持ちのpigtailが付いたMX-11679に対応したハウジングの試作を実施した。  
-なお、オートゲイン管も当然使用可能となっている。
-
+また、このハウジングはPVS-14の対物レンズが装着可能となっている。
 
 <img alt="NOD" src="https://github.com/user-attachments/assets/c0770f83-344c-498c-9bcd-d7fe0fae0cc9" width="450px">
 <img alt="NOD" src="https://github.com/user-attachments/assets/1f0fdb93-3ddc-400b-949f-e889eac5f7f9" width="450px">
@@ -48,9 +47,12 @@ PVS-114514は3Dプリンタで作成するマニュアルゲイン機能を備�
 |XHコネクタ ハウジング 3pin|1|XHP-3|
 |XHコネクタ ハウジング 4pin|1|XHP-4|
 |結束バンド|1|KBR-N200010|
+|M3タッピングビス|2| |
 
 ## 基板製作
-WIP(まともな回路図書いて無かった)
+WIP(まともな回路図書いて無かった)  
+<img alt="NOD" src="https://github.com/user-attachments/assets/a037b29c-3c35-4467-b964-27f54653f270" width="450px">
+<img alt="NOD" src="https://github.com/user-attachments/assets/faea16d6-fcc6-4d68-8e0b-a98d5c92c78e" width="450px">
 
 ## 現在の問題点と今後の予定
 - 基板剥き出しなのでカバーしたい。
@@ -59,6 +61,8 @@ WIP(まともな回路図書いて無かった)
     - 一体型にしたかったけど結束バンド用穴の処理が面倒だった
 - 管への電源供給基板の押さえ方
     - イイ感じの圧力でおさえる楽な方法が結束バンドだった、もっといい方法はあるはず
+- ヘッドマウント
+    - 強度がね……PA12GBとかで作るなら……。
 - 防水性
     - そもそも印刷表面が荒いので防水性の担保が大変難しい
 - マニュアルゲインが付いた双眼
