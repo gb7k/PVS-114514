@@ -60,7 +60,7 @@ PVS-114514は3Dプリンタで作成するマニュアルゲイン機能を備�
 配線図 基板表  
 <img alt="NOD" src="https://github.com/user-attachments/assets/337d60a8-89f9-403b-8fe1-774203642d2f" width="450px">  
 配線図 基板裏  
-<img alt="NOD" src="https://github.com/user-attachments/assets/26428529-20c9-4c2f-b153-efd72d81fe3c" width="450px">  
+<img alt="NOD" src="https://github.com/user-attachments/assets/26428529-20c9-4c2f-b153-efd72d81fe3c" width="300px">  
 増幅管基板  
 <img alt="NOD" src="https://github.com/user-attachments/assets/faea16d6-fcc6-4d68-8e0b-a98d5c92c78e" width="450px">  
 
