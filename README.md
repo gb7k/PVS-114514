@@ -52,11 +52,19 @@ PVS-114514は3Dプリンタで作成するマニュアルゲイン機能を備�
 
 ## 基板製作
 **作成中**  
-**WIP**  
-(まともな回路図書いて無かった)  
-<img alt="NOD" src="https://github.com/user-attachments/assets/a037b29c-3c35-4467-b964-27f54653f270" width="450px">
-<img alt="NOD" src="https://github.com/user-attachments/assets/faea16d6-fcc6-4d68-8e0b-a98d5c92c78e" width="450px">
-<img alt="NOD" src="https://github.com/user-attachments/assets/62b47465-7fbe-4c03-bde1-2b44d0ca7ccf" width="450px">
+
+実基板  
+<img alt="NOD" src="https://github.com/user-attachments/assets/a037b29c-3c35-4467-b964-27f54653f270" width="450px">  
+
+配線図 基板表  
+<img alt="NOD" src="https://github.com/user-attachments/assets/337d60a8-89f9-403b-8fe1-774203642d2f" width="450px">  
+配線図 基板裏  
+<img alt="NOD" src="https://github.com/user-attachments/assets/26428529-20c9-4c2f-b153-efd72d81fe3c" width="450px">  
+増幅管基板  
+<img alt="NOD" src="https://github.com/user-attachments/assets/faea16d6-fcc6-4d68-8e0b-a98d5c92c78e" width="450px">  
+
+動作テスト  
+<img alt="NOD" src="https://github.com/user-attachments/assets/62b47465-7fbe-4c03-bde1-2b44d0ca7ccf" width="450px">  
 
 
 ## 現在の問題点と今後の予定
